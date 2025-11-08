@@ -35,6 +35,7 @@ Python Leetcode problems
 | [0022-generate-parentheses](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Python Leetcode problems
 | [0036-valid-sudoku](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
