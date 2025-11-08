@@ -7,6 +7,7 @@ Python Leetcode problems
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -23,4 +24,16 @@ Python Leetcode problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
