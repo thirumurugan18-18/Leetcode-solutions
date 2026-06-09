@@ -66,6 +66,7 @@ Python Leetcode problems
 | [0040-combination-sum-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -93,6 +94,7 @@ Python Leetcode problems
 | [0030-substring-with-concatenation-of-all-words](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0217-contains-duplicate](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,4 +119,8 @@ Python Leetcode problems
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
