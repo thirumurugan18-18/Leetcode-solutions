@@ -26,6 +26,7 @@ Python Leetcode problems
 | [0038-count-and-say](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Python Leetcode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
