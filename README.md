@@ -24,6 +24,7 @@ Python Leetcode problems
 | [0030-substring-with-concatenation-of-all-words](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 ## Dynamic Programming
 |  |
@@ -77,6 +78,7 @@ Python Leetcode problems
 | [0027-remove-element](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
