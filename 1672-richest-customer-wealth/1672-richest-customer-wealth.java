@@ -1,9 +1,9 @@
 class Solution {
     public int maximumWealth(int[][] accounts) {
         int rich = 0;
-        for (int[] i : accounts) {
+        for (int[] customer : accounts) {
             int sum = 0;
-            for (int money : i) {
+            for (int money : customer) {
                 sum += money;
             }
             rich = Math.max(rich, sum);
