@@ -61,6 +61,7 @@ Python Leetcode problems
 | [0037-sudoku-solver](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -107,4 +108,8 @@ Python Leetcode problems
 | [0036-valid-sudoku](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [1672-richest-customer-wealth](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
