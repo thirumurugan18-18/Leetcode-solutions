@@ -29,6 +29,7 @@ Python Leetcode problems
 | ------- |
 | [0022-generate-parentheses](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
@@ -41,6 +42,7 @@ Python Leetcode problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Python Leetcode problems
 | [0037-sudoku-solver](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1480-running-sum-of-1d-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
