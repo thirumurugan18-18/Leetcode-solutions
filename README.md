@@ -52,6 +52,7 @@ Python Leetcode problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Python Leetcode problems
 | [1480-running-sum-of-1d-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,4 +143,12 @@ Python Leetcode problems
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
