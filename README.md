@@ -29,6 +29,7 @@ Python Leetcode problems
 | [0344-reverse-string](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1768-merge-strings-alternately](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Python Leetcode problems
 | [0031-next-permutation](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
