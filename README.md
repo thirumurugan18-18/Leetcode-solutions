@@ -25,6 +25,7 @@ Python Leetcode problems
 | [0032-longest-valid-parentheses](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -104,6 +105,7 @@ Python Leetcode problems
 | [0036-valid-sudoku](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Python Leetcode problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Design
 |  |
 | ------- |
