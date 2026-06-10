@@ -70,6 +70,7 @@ Python Leetcode problems
 | [0053-maximum-subarray](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -124,10 +125,15 @@ Python Leetcode problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
