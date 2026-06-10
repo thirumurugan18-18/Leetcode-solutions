@@ -10,12 +10,14 @@ Python Leetcode problems
 | [0023-merge-k-sorted-lists](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
