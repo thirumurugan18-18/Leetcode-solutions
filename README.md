@@ -104,6 +104,7 @@ Python Leetcode problems
 | [0029-divide-two-integers](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -164,4 +165,12 @@ Python Leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
