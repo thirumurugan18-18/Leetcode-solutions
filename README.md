@@ -39,6 +39,7 @@ Python Leetcode problems
 | [0022-generate-parentheses](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
@@ -101,6 +102,7 @@ Python Leetcode problems
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -158,4 +160,8 @@ Python Leetcode problems
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
