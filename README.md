@@ -83,6 +83,7 @@ Python Leetcode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0704-binary-search](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -139,6 +140,7 @@ Python Leetcode problems
 | [0033-search-in-rotated-sorted-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
