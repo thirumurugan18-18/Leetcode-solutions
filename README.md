@@ -43,6 +43,7 @@ Python Leetcode problems
 | [0053-maximum-subarray](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Python Leetcode problems
 | [1480-running-sum-of-1d-array](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Two Pointers
 |  |
@@ -107,11 +109,13 @@ Python Leetcode problems
 | [0070-climbing-stairs](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,8 +175,10 @@ Python Leetcode problems
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
