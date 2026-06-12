@@ -174,11 +174,21 @@ Python Leetcode problems
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/thirumurugan18-18/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
